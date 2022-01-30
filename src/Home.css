@@ -1,0 +1,10 @@
+
+.cart-products{
+    display: flex;
+    }
+    .all-cart{
+        width: 30%;
+    }
+    .all-products{
+    width: 70%;
+    }

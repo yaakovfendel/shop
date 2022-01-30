@@ -1,0 +1,11 @@
+
+@media (max-width: 920px) {
+    .Products-products  {
+      flex: 2 46%;
+    }
+  }
+  
+  .Products-products {
+    display: flex;
+    flex-wrap: wrap;
+  }
